@@ -1,0 +1,6 @@
+Pillow
+opencv-python
+inference-sdk
+requests
+tqdm
+python-decouple
